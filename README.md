@@ -39,6 +39,8 @@ The euro is used as the base currency.
 
 ## Solution Architecture
 
+![Solution Architecture](architecture_diagram.png)
+
 ```text
 Frankfurter Public API
           |
